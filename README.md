@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelRodMar)](https://github.com/anuraghazra/github-readme-stats)
+Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
